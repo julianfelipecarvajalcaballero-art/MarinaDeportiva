@@ -1,6 +1,13 @@
+packages:
+  - 'semana-*'
+
+overrides:
+  '@react-navigation/core': '7.21.1'
+  '@react-navigation/elements': '2.9.25'
+
 minimumReleaseAgeExclude:
-  - '@react-navigation/bottom-tabs@7.18.3'
-  - '@react-navigation/core@7.21.2'
-  - '@react-navigation/elements@2.9.26'
-  - '@react-navigation/native-stack@7.17.6'
-  - '@react-navigation/native@7.3.4'
+  - '@react-navigation/bottom-tabs@7.18.2'
+  - '@react-navigation/core@7.21.1'
+  - '@react-navigation/elements@2.9.25'
+  - '@react-navigation/native-stack@7.17.5'
+  - '@react-navigation/native@7.3.3'
